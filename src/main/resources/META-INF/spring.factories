@@ -1,0 +1,2 @@
+# Spring Boot API Client Starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.ygyin.apiplatformsdk.ApiClientConfig
